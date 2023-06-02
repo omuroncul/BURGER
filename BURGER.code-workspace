@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "BURGER",
+			"path": "../BURGER"
+		},
+		{
+			"name": "imagess",
+			"path": "../imagess"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "BURGER"
+	}
+}
